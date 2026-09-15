@@ -27,5 +27,7 @@
   "cup-raw": "o6_cup/0007_raw.mp4",
   "cup-structured": "o6_cup/0001_stru.mp4",
   "bottle-raw": "o6_bottle/0009_raw.mp4",
-  "bottle-structured": "o6_bottle/0043_stru.mp4"
+  "bottle-structured": "o6_bottle/0043_stru.mp4",
+  "croissant-raw": "o6_bread/o6_bread_raw/0009_raw.mp4",
+  "croissant-structured": "o6_bread/o6_bread_raw/0017_stru.mp4"
 }
